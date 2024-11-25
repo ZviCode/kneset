@@ -1,0 +1,5 @@
+requests==2.32.3
+Pillow==11.0.0
+python-dotenv==1.0.1
+pytz==2024.2
+urllib3==2.2.3
